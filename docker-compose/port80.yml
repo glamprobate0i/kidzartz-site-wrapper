@@ -1,0 +1,5 @@
+ersion: '3.7'                                                                       
+services:                                                                           
+    web:                                                                            
+        ports:                                                                      
+            - 9971:80
