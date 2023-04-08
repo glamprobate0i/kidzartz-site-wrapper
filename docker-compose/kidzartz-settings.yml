@@ -1,0 +1,6 @@
+version: '3.7'
+services:
+  web:
+    environment:
+      SOURCE_SITE: https://www.kidzartz.co.uk
+      TEMPLATE_LAYOUTS_SORTING_ORDER: ''
